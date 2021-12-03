@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Dishes v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-26 18:01:00+0000\n"
+"Last-Translator: horttcore <me@horttcore.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/custom-post-type-dishes.admin.php:38
+#@ cpt-dish
+msgid "Information"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:65
+#@ custom-post-type-dishes
+msgid "Quantity"
+msgstr "Menge"
+
+#: classes/custom-post-type-dishes.admin.php:70
+#@ custom-post-type-dishes
+msgid "Price"
+msgstr "Preis"
+
+#: classes/custom-post-type-dishes.admin.php:102
+#, php-format
+#@ dishs
+msgid "Dish updated. <a href=\"%s\">View dish</a>"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:103
+#@ dishs
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:104
+#@ dishs
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:105
+#@ dishs
+msgid "dish updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: classes/custom-post-type-dishes.admin.php:107
+#, php-format
+#@ dishs
+msgid "dish restored to revision from %s"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:108
+#, php-format
+#@ dishs
+msgid "dish published. <a href=\"%s\">View dish</a>"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:109
+#@ dishs
+msgid "dish saved."
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:110
+#, php-format
+#@ dishs
+msgid "dish submitted. <a target=\"_blank\" href=\"%s\">Preview dish</a>"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:111
+#, php-format
+#@ dishs
+msgid "dish scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview dish</a>"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:111
+#@ default
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/custom-post-type-dishes.admin.php:112
+#, php-format
+#@ dishs
+msgid "dish draft updated. <a target=\"_blank\" href=\"%s\">Preview dish</a>"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:60
+#@ custom-post-type-dishes
+msgctxt "post type general name"
+msgid "Dishes"
+msgstr "Speisen"
+
+#: classes/custom-post-type-dishes.php:61
+#@ custom-post-type-dishes
+msgctxt "post type singular name"
+msgid "Dish"
+msgstr "Speise"
+
+#: classes/custom-post-type-dishes.php:62
+#@ custom-post-type-dishes
+msgctxt "dish"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-dishes.php:63
+#@ custom-post-type-dishes
+msgid "Add New dish"
+msgstr "Neue Speise erstellen"
+
+#: classes/custom-post-type-dishes.php:64
+#@ custom-post-type-dishes
+msgid "Edit dish"
+msgstr "Speise bearbeiten"
+
+#: classes/custom-post-type-dishes.php:65
+#@ custom-post-type-dishes
+msgid "New dish"
+msgstr "Neue Speise"
+
+#: classes/custom-post-type-dishes.php:66
+#@ custom-post-type-dishes
+msgid "View dish"
+msgstr "Speise ansehen"
+
+#: classes/custom-post-type-dishes.php:67
+#@ custom-post-type-dishes
+msgid "Search dishes"
+msgstr "Speisen durchsuchen"
+
+#: classes/custom-post-type-dishes.php:68
+#@ custom-post-type-dishes
+msgid "No dishes found"
+msgstr "Keine Speise gefunden"
+
+#: classes/custom-post-type-dishes.php:69
+#@ custom-post-type-dishes
+msgid "No dishes found in Trash"
+msgstr "Keine Speisen im Papierkorb gefunden"
+
+#: classes/custom-post-type-dishes.php:71
+#@ custom-post-type-dishes
+msgid "Menu"
+msgstr "Menü"
+
+#: classes/custom-post-type-dishes.php:81
+#@ custom-post-type-dishes
+msgctxt "post type slug"
+msgid "dishes"
+msgstr "speisekarte"
+
+#: classes/custom-post-type-dishes.php:109
+#@ custom-post-type-dishes
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Kategorien"
+
+#: classes/custom-post-type-dishes.php:110
+#@ custom-post-type-dishes
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/custom-post-type-dishes.php:111
+#@ custom-post-type-dishes
+msgid "Search Categories"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:112
+#@ custom-post-type-dishes
+msgid "Popular Categories"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:113
+#@ custom-post-type-dishes
+msgid "All Categories"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:116
+#@ custom-post-type-dishes
+msgid "Edit Category"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:117
+#@ custom-post-type-dishes
+msgid "Update Category"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:118
+#@ custom-post-type-dishes
+msgid "Add New Category"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:119
+#@ custom-post-type-dishes
+msgid "New Category Name"
+msgstr ""
+
+#: classes/custom-post-type-dishes.php:120
+#@ custom-post-type-dishes
+msgid "Category"
+msgstr "Kategorie"
+
+#: classes/custom-post-type-dishes.php:128
+#@ custom-post-type-dishes
+msgctxt "taxonomy slug"
+msgid "dish-category"
+msgstr "menue-kategorie"
+
